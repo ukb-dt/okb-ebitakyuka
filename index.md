@@ -27,7 +27,7 @@
 Soil → Roots → Trunk → Branches → Canopy
 
 **Soga Life Stages:**  
-Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
+Okuzala → Okumera → Okukula → Okukona → [Okubona Ebitakyuka](https://ukb-dt.github.io/oe/)
 
 ---
 
