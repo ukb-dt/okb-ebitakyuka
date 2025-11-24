@@ -21,7 +21,7 @@
 
 ## Core Identity
 **Ukubona LLC = Full-Stack Health Tech**  
-Database (SQL) → Browser (JavaScript) → Server (Python) → App (UI/UX) → Value (Subscription)
+[Database](https://ukb-dt.github.io/dt/) (SQL) → Browser (JavaScript) → [Server](https://ukb-dt.github.io/dt/) (Python) → App (UI/UX) → Value (Subscription)
 
 **Tree Metaphor:**  
 Soil → Roots → Trunk → Branches → Canopy
@@ -53,6 +53,7 @@ Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
 - Subscription model for monetization (Canopy)
 
 ### **Near-Term Evolution (0-12 months)**
+
 | **Domain** | **Actions** | **Technologies** |
 |------------|-------------|------------------|
 | **Cloud Migration** | Move from Render.com to Azure/AWS | Docker, Kubernetes, managed services |
@@ -61,6 +62,7 @@ Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
 | **Compliance** | HIPAA/HITRUST if PHI involved | Encryption, audit logging, differential privacy |
 
 ### **Medium-Term Evolution (1-3 years)**
+
 | **Domain** | **Actions** | **Technologies** |
 |------------|-------------|------------------|
 | **Interoperability** | EHR data exchange | FHIR/HL7 APIs |
@@ -69,6 +71,7 @@ Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
 | **Health Sovereignty** | Closed-loop system for decisions | Ingestion → Simulation → Analytics → Intervention → Measurement |
 
 ### **Long-Term / Frontier (3+ years)**
+
 | **Domain** | **Actions** | **Technologies** |
 |------------|-------------|------------------|
 | **Privacy-Preserving AI** | Federated learning across institutions | Differential privacy, homomorphic encryption |
