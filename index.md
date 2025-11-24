@@ -33,7 +33,7 @@ Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
 
 ## Complete System Evolution & Consciousness Mapping
 
-| **Omni Layer** | **System Function** | **Energy Phase** | **Soga Stage** | **Tree Layer** | **Tech Stack** | **Timeline** | **Key Capabilities** |
+| **Omni Layer** | **System Function** | **Energy Phase** | **Soga Stage** | **Tree Layer** | **[Tech Stack](https://ukb-dt.github.io/tech-stack/)** | **Timeline** | **Key Capabilities** |
 |----------------|---------------------|------------------|----------------|----------------|----------------|--------------|---------------------|
 | **OmniBenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Soil | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
 | **OmniSovereign** | Control / coherence layer | Disturbing | **Okumera** (Sprouting) | Roots | Browser (JavaScript) | Current → 1yr | "Roots" extracting and interacting with soil data |
