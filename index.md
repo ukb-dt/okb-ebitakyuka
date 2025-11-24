@@ -35,7 +35,7 @@ Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
 
 | **Omni Layer** | **System Function** | **Energy Phase** | **Soga Stage** | **Tree Layer** | **Tech Stack** | **Timeline** | **Key Capabilities** |
 |----------------|---------------------|------------------|----------------|----------------|----------------|--------------|---------------------|
-| **Omnibenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Soil | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
+| **OmniBenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Soil | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
 | **OmniSovereign** | Control / coherence layer | Disturbing | **Okumera** (Sprouting) | Roots | Browser (JavaScript) | Current → 1yr | "Roots" extracting and interacting with soil data |
 | **OmniPresent** | Ubiquity / accessibility | Flowing | **Okukula** (Growing) | Trunk | Server (Python/Flask) | 1-3 years | Logic, API endpoints, compute "trunk", governance |
 | **Immutable/Invariant** | UX stability / constants | Constraining | **Okukona** (Surviving) | Branches | App (UI/UX) | 1-3 years | Predictable flows, "branches" where humans interact |
