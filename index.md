@@ -21,30 +21,36 @@
 
 ## Core Identity
 **Ukubona LLC = Full-Stack Health Tech**  
-Database (SQL) → Browser (JavaScript) → Server (Python) → App (UI/UX) → Value (Subscription Model)
+Database (SQL) → Browser (JavaScript) → Server (Python) → App (UI/UX) → Value (Subscription)
+
+**Tree Metaphor:**  
+Soil → Roots → Trunk → Branches → Canopy
+
+**Soga Life Stages:**  
+Okuzala → Okumera → Okukula → Okukona → Okubona Ebitakyuka
 
 ---
 
 ## Complete System Evolution & Consciousness Mapping
 
-| **Omni Layer** | **System Function** | **Energy Phase** | **Soga Stage** | **Tech Stack Component** | **Timeline** | **Key Capabilities** |
-|----------------|---------------------|------------------|----------------|-------------------------|--------------|---------------------|
-| **OmniBenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
-| **OmniSovereign** | Control / coherence layer | Disturbing | **Okumera** (Sprouting) | Server (Python/Flask) | Current → 1yr | Logic, API endpoints, compute "trunk", governance |
-| **OmniPresent** | Ubiquity / accessibility | Flowing | **Okukula** (Growing) | Browser (JavaScript) | 1-3 years | Real-time interfaces, "roots" extracting from soil |
-| **Immutable/Invariant** | UX stability / constants | Constraining | **Okukona** (Surviving) | App (UI/UX) | 1-3 years | Predictable flows, "branches" where humans interact |
-| **Omniscient** | Knowledge / predictive power | Remembering | **Okubona Ebitakyuka** (Seeing invariants) | Value Layer (Subscription) | 3+ years | Anticipatory intelligence, "canopy" generating returns |
+| **Omni Layer** | **System Function** | **Energy Phase** | **Soga Stage** | **Tree Layer** | **Tech Stack** | **Timeline** | **Key Capabilities** |
+|----------------|---------------------|------------------|----------------|----------------|----------------|--------------|---------------------|
+| **Omnibenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Soil | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
+| **OmniSovereign** | Control / coherence layer | Disturbing | **Okumera** (Sprouting) | Roots | Browser (JavaScript) | Current → 1yr | "Roots" extracting and interacting with soil data |
+| **OmniPresent** | Ubiquity / accessibility | Flowing | **Okukula** (Growing) | Trunk | Server (Python/Flask) | 1-3 years | Logic, API endpoints, compute "trunk", governance |
+| **Immutable/Invariant** | UX stability / constants | Constraining | **Okukona** (Surviving) | Branches | App (UI/UX) | 1-3 years | Predictable flows, "branches" where humans interact |
+| **Omniscient** | Knowledge / predictive power | Remembering | **Okubona Ebitakyuka** (Seeing invariants) | Canopy | Value (Subscription) | 3+ years | Anticipatory intelligence, "canopy" generating returns |
 
 ---
 
 ## Evolution Timeline & Technical Roadmap
 
 ### **Current Foundation (Render.com deployment)**
-- SQL database for structured health data
-- Python/Flask server for API logic
-- JavaScript browser interfaces
-- UI/UX layer for user interaction
-- Subscription model for monetization
+- SQL database for structured health data (Soil)
+- JavaScript browser interfaces (Roots)
+- Python/Flask server for API logic (Trunk)
+- UI/UX layer for user interaction (Branches)
+- Subscription model for monetization (Canopy)
 
 ### **Near-Term Evolution (0-12 months)**
 | **Domain** | **Actions** | **Technologies** |
@@ -103,4 +109,4 @@ This creates a **full-stack identity system** where:
 - Internal system (human life trajectory) evolution
 - Both navigate via energy flows and constraints simultaneously
 
-**Result**: Ukubona becomes an "Omnioperative" platform — the default system for health decision-making, bridging data sovereignty, predictive intelligence, and human-centered design.
+**Result**: Ukubona becomes an "OmniOperative" platform — the default system for health decision-making, bridging data sovereignty, predictive intelligence, and human-centered design.
