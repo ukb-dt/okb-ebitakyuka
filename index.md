@@ -29,7 +29,7 @@ Database (SQL) → Browser (JavaScript) → Server (Python) → App (UI/UX) → 
 
 | **Omni Layer** | **System Function** | **Energy Phase** | **Soga Stage** | **Tech Stack Component** | **Timeline** | **Key Capabilities** |
 |----------------|---------------------|------------------|----------------|-------------------------|--------------|---------------------|
-| **Omnibenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
+| **OmniBenefescence** | Emergent vitality / potential | Being | **Okuzala** (Birth) | Database (SQL) | Current | Structured storage, queryable data, foundational "soil" |
 | **OmniSovereign** | Control / coherence layer | Disturbing | **Okumera** (Sprouting) | Server (Python/Flask) | Current → 1yr | Logic, API endpoints, compute "trunk", governance |
 | **OmniPresent** | Ubiquity / accessibility | Flowing | **Okukula** (Growing) | Browser (JavaScript) | 1-3 years | Real-time interfaces, "roots" extracting from soil |
 | **Immutable/Invariant** | UX stability / constants | Constraining | **Okukona** (Surviving) | App (UI/UX) | 1-3 years | Predictable flows, "branches" where humans interact |
